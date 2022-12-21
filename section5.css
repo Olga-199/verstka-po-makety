@@ -1,0 +1,101 @@
+.section_5 {
+    margin-top: 242px;
+    height: 864px;
+}
+
+.sec_5 {
+    background: url('imges/sec5.jpg') rgba(0, 0, 0, 0.75);
+    background-blend-mode: multiply;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.menu_s5 {
+    padding-left: 99px;
+    padding-top: 105px;
+    width: 587px;
+    height: 770px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text1_section5 {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 37px;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.list_s5 {
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    color: #FFFFFF;
+    padding: 0px;
+}
+
+.list_s5>li {
+    padding-bottom: 14px;
+}
+
+.flex_s5 {
+    height: 727px;
+    width: 751px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.im1_s5 {
+    margin-top: -41px;
+    margin-left: 150px;
+    width: 357px;
+    height: 557px;
+    background: url('imges/im1s5.jpg');
+    background-size: cover;
+}
+
+.im3_s5 {
+    margin-top: -112px;
+    margin-left: 43px;
+    width: 354px;
+    height: 275px;
+    background: url('imges/im3s5.jpg');
+    background-size: cover;
+}
+
+.im2_s5 {
+    margin-top: 43px;
+    margin-left: 150px;
+    width: 354px;
+    height: 349px;
+    background: url('imges/im2s5.jpg');
+    background-size: cover;
+}
+
+.im4_s5 {
+    margin-top: -300px;
+    margin-left: 46px;
+    width: 354px;
+    height: 624px;
+    background: url('imges/im4s5.jpg');
+    background-size: cover;
+}
+
+.slider2 {
+    display: none;
+}
+
+.textslider_media {
+    display: none;
+}

@@ -1,0 +1,54 @@
+.section_7 {}
+
+.sec_7 {
+
+    background: url('imges/section7.jpg') rgba(24, 24, 24, 0.9);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    height: 953px;
+    margin-top: 354px;
+
+}
+
+.text_s7 {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E3B873;
+    margin-top: 274px;
+
+}
+
+.social_s7 {
+    margin-top: 6px;
+    text-align: center;
+}
+
+.insta_s6 {
+    margin-left: 15px;
+}
+
+.map_s7 {
+    text-align: center;
+    margin-top: 43px;
+}
+
+.footer {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 133px;
+    align-items: center;
+}
+
+.media_last {
+    display: none;
+}
